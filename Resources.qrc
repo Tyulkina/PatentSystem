@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>icons/IMG_3619_1.png</file>
+        <file>icons/info_icon.png</file>
+        <file>icons/ipc_icon_5.png</file>
+        <file>icons/open_icon.png</file>
+        <file>icons/Splash.png</file>
+        <file>icons/syntax_icon.png</file>
+        <file>icons/vstu_title.png</file>
+    </qresource>
+</RCC>
